@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">S3Ejercicio</string>
+    <string name="pet_name_dummy">Canddy Maxi</string>
+    <string name="pet_like_count_dummy">5</string>
+</resources>
